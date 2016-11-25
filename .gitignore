@@ -1,1 +1,11 @@
-/node_modules
+.DS_Store
+npm-debug.log
+.idea
+node_modules
+.grunt
+_SpecRunner.html
+target
+tmp
+config.json
+*.sublime-project
+*.sublime-workspace
